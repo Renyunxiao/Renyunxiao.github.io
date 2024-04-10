@@ -12,7 +12,6 @@ About me
 I'm a Ph.D. student at College of Engineering, Peking University, Beijing, China. His research interests include optimal control and filtering of network systems, path
 planning, and distributed optimization.
 
-#You can find my CV here: [Yunxiao's Curriculum Vitae](../assets/CV_RenYunxiao.pdf).
 
 Education
 ======
