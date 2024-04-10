@@ -1,4 +1,4 @@
----
+![image](https://github.com/Renyunxiao/Renyunxiao.github.io/assets/22235970/166dbb67-e604-493c-b97c-fa5df52bc408)---
 permalink: /
 title: "任耘霄 Ren, Yunxiao"
 author_profile: true
@@ -15,7 +15,7 @@ planning, reinforcement learning and distributed optimization.
 
 Education
 ======
-* PhD, Peking University, Beijing, China, Sept 2019 – Jul 2024
+* Ph.D., Peking University, Beijing, China, Sept 2019 – Jul 2024
   - College of Engineering, Department of Mechanics and Engineering Science
   - Supervisor: Prof. Zhisheng Duan
 
