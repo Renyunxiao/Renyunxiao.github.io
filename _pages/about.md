@@ -9,8 +9,8 @@ redirect_from:
 
 About me
 ======
-I'm a Ph.D. student at College of Engineering, Peking University, Beijing, China. His research interests include optimal control and filtering of network systems, path
-planning, and distributed optimization.
+I'm a Ph.D. student at College of Engineering, Peking University, Beijing, China. My research interests include optimal control and filtering of network systems, path
+planning, reinforcement learning and distributed optimization.
 
 
 Education
@@ -34,4 +34,3 @@ Awards
 * Merit Student, Peking University
 
 
-[Email](renyx@pku.edu.cn) 
