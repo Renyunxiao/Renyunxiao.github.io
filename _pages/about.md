@@ -1,4 +1,5 @@
-![image](https://github.com/Renyunxiao/Renyunxiao.github.io/assets/22235970/166dbb67-e604-493c-b97c-fa5df52bc408)---
+![image](https://github.com/Renyunxiao/Renyunxiao.github.io/assets/22235970/166dbb67-e604-493c-b97c-fa5df52bc408)
+---
 permalink: /
 title: "任耘霄 Ren, Yunxiao"
 author_profile: true
